@@ -2,7 +2,7 @@
 - 👀 I’m interested in LLM, Machine Learning and Quant Research
 - 🌱 I’m currently learning Stochastic Theory in Finance, C++
 - 💞️ I’m looking to collaborate on AI Team
-- 📫 How to reach me: shenzhuoer5@gmail.com
+- 📫 How to reach me: zhuoershenlinkedin@gmail.com
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
