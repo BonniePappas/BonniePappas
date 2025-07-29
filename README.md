@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @BonniePappas
+- 👋 Hi, I’m @BonnieShen
 - 👀 I’m interested in LLM, Machine Learning and Quant Research
 - 🌱 I’m currently learning Stochastic Theory in Finance, C++
 - 💞️ I’m looking to collaborate on AI Team
