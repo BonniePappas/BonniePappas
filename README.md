@@ -1,6 +1,6 @@
 # 👋 Hi there, I’m Zhuoer Shen (Bonnie)
 
-🎓 I'm a graduate student at **Yale University**, majoring in **Biostatistics and Data Science**, with a strong foundation in Mathematics from **Fudan University**.
+🎓 I'm a graduate student at **Yale University**, majoring in **Biostatistics and Data Science**, with a strong foundation in **Mathematics** from **Fudan University**.
 
 💡 I’m passionate about:
 - 🧠 **Large Language Models (LLMs)** and how they reason, learn, and adapt
